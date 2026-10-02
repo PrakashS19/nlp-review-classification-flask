@@ -1,0 +1,1 @@
+Historical accuracy comparisons are extracted from recovered saved notebook outputs. Real portfolio baseline metrics are generated locally in artifacts/metrics.json after running src/train.py on the public dataset. No new full-dataset metrics are claimed here.

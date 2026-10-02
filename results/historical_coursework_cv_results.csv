@@ -1,0 +1,10 @@
+representation,reported_mean_5fold_accuracy,reported_std_5fold_accuracy
+Description - Count Vector,0.876005,0.002158
+Description - Unweighted Word2Vec,0.848083,0.003593
+Description - TF-IDF Weighted Word2Vec,0.849965,0.004236
+Title - Count Vector,0.865629,0.004469
+Title - Unweighted Word2Vec,0.843047,0.005562
+Title - TF-IDF Weighted Word2Vec,0.842895,0.005246
+Title + Description - Count Vector,0.890499,0.001291
+Title + Description - Unweighted Word2Vec,0.858407,0.001888
+Title + Description - TF-IDF Weighted Word2Vec,0.86034,0.001874
